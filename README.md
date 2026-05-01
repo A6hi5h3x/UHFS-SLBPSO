@@ -5,9 +5,9 @@ PC1, while 4 datasets are unlabeled real-life plant genomic datasets: Rice, Whea
 
 - [Ionosphere dataset](https://archive.ics.uci.edu/dataset/52/ionosphere)
 - [Sonar dataset](https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks)
-- [Waveform dataset](https://www.openml.org/search?type=data&sort=runs&id=60&status=active)
 - [Musk1 dataset](https://archive.ics.uci.edu/dataset/74/musk+version+1)
 - [Musk2 dataset](https://archive.ics.uci.edu/dataset/75/musk+version+2)
+- [Waveform dataset](https://www.openml.org/search?type=data&sort=runs&id=60&status=active)
 - [Madelon dataset](https://www.openml.org/search?type=data&status=active&id=1485)
 - [Mfeat-Fourier dataset](https://www.openml.org/search?type=data&status=active&id=14)
 - [Optdigits dataset](https://www.openml.org/search?type=data&status=active&id=28)
